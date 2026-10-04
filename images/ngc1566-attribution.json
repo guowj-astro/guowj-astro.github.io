@@ -7,6 +7,6 @@
   "license": "CC BY 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
   "usagePolicy": "https://esahubble.org/public/copyright/",
-  "changes": "Original JPEG unchanged; colours and spiral texture mapped into an illustrative stellar volume with a thicker stellar disk, soft central bulge and subtle irregular midplane dust lane. Edge-on appearance is informed by NGC 4565 reference imagery, without importing that image. The galaxy and dusty torus share a common model plane. Added depth is an artistic illustration, not measured three-dimensional structure; nuclear overlays are not resolved features in the photograph.",
+  "changes": "Original JPEG unchanged; colours and spiral texture mapped into an illustrative stellar volume with a thick disk, a distinct rounded warm stellar bulge and a subtle irregular midplane dust lane. Edge-on disk appearance is informed by NGC 4565 reference imagery, without importing that image. The galaxy and dusty torus share a common model plane, and the bulge is centred on the image nucleus. Added depth and the stellar bulge are artistic illustrations, not measured three-dimensional structure; nuclear overlays are not resolved features in the photograph.",
   "sha256": "42473209f3ed25cddcd2847be2dbc93e5249f98e22683957e43f77ad9e10296a"
 }
