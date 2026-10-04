@@ -1,9 +1,13 @@
-# Wei-Jian Guo — Academic website
+# Wei-Jian Guo · Academic website
 
 Public website: https://guowj-astro.github.io/
 
-This repository serves the compiled academic homepage through GitHub Pages from the root of the master branch. A cinematic interactive 3D AGN, with a larger, taller and thicker closed cloudy dust torus and a lensed accretion disk that flares outward, grading from violet at the inner edge to pale lavender at the outer edge, connects the accretion disk, broad-line region, dust torus and narrow-line region to their research modules. Drag to orbit, scroll or pinch to zoom, or use keyboard controls. Changing-look is an activity state. The detailed response models and original emission visualizations remain available within each region.
+The compiled site is served by GitHub Pages from the root of the master branch.
 
-Selected publications, invited talks, conference presentations and observing programs are retained. Manuscripts under review are listed separately with their status as of September 2026. The analytic lensing appearance is a cinematic schematic, rather than a general-relativistic ray tracer. Visualizations are illustrative and use synthetic signals, compressed distances and reduced-motion support; all four research entries remain available if WebGL is unavailable.
+The central black hole has been rebuilt as one composed, animated image: a warm white/gold thin disk crosses a deep black shadow, with a broad upper lensed disk image, a weaker lower image, sheared turbulent texture and restrained glow. The projection follows viewing elevation and transitions toward a face-on annulus. Shape-aware picking excludes transparent corners. The close-up lowers the camera and dims surrounding line-region clouds.
 
-Deployments retain the complete JavaScript and CSS export, including `_next/`, `index.html`, and `.nojekyll`. The previous Academic Pages source remains in the repository and its history. The current compiled site is served directly via `.nojekyll`.
+This independently rendered cinematic approximation is inspired by the film team's [published reference](https://arxiv.org/html/1502.03808#S4.SS2); it does not embed film imagery and is not a full general-relativistic ray tracer. The galaxy photograph and the AGN overlay use illustrative, compressed spatial scales.
+
+The real NGC 1566 photograph, clumpy dust construction, polar clouds, research content and quantitative models are preserved. Flow, orbit, reduced-motion, offscreen pause and Changing-look controls remain supported.
+
+Photo credit: ESA/Hubble & NASA. Acknowledgement: Det58. [Source](https://esahubble.org/images/potw1422a/) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Photo rendering uses edge masking and local brightness adjustment, with separate AGN overlays.
