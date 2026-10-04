@@ -2,10 +2,10 @@
 
 Public website: https://guowj-astro.github.io/
 
-The compiled site is served by GitHub Pages from the root of the master branch.
+GitHub Pages serves the compiled site from the root of the master branch.
 
-The NGC 1566 host has a more prominent, rounded central stellar bulge, with warm light extending above and below the surrounding disk. The thin and thick stellar components and equatorial dust lane remain part of the illustration. The host shares the dusty torus and broad-line region’s midplane, and its photographed nucleus stays at the scene origin. Added three-dimensional depth is illustrative, not a measured reconstruction of NGC 1566.
+The interactive AGN illustration combines a cinematic black-hole core, an outward-thickening broad-line region, a clumpy orange dusty torus extending into a pale outer layer, and continuous cloudy narrow-line surfaces. The host galaxy is uniformly enlarged tenfold relative to the previous preview, preserving the nuclear structures and their close-up views. The overview camera frames the enlarged galaxy; the stellar background softens as the viewer approaches the nucleus. Click a region or its label to enter its research view, and use Full AGN to return to the galaxy overview.
 
-The AGN nucleus, dusty clouds, narrow-line region, camera, navigation, research content and quantitative response models are retained. Reduced-motion preferences and offscreen rendering suspension remain supported.
+The host has a rounded stellar bulge, thick stellar disk and equatorial dust lane, aligned with the nuclear disk. Geometry, relative sizes, depth and AGN overlays are illustrative, not a measured three-dimensional reconstruction. The academic content, quantitative response models, reduced-motion support and offscreen rendering suspension are retained.
 
-Photo credit: ESA/Hubble & NASA. Acknowledgement: Det58. [NGC 1566 source](https://esahubble.org/images/potw1422a/) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The original JPEG is unchanged; its colours and spiral texture are displayed with illustrative depth, local brightness adjustments and independent AGN overlays. Nuclear structures are not resolved features of the photograph. [ESO’s NGC 4565 observation](https://www.eso.org/public/images/eso0525a/) informs the side-view appearance; that image is not bundled.
+Photo credit: ESA/Hubble & NASA. Acknowledgement: Det58. [NGC 1566 source](https://esahubble.org/images/potw1422a/) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The original JPEG is unchanged; its colours and spiral texture are displayed with illustrative depth and local brightness adjustments. Nuclear structures are not resolved features of the photograph. [ESO’s NGC 4565 observation](https://www.eso.org/public/images/eso0525a/) informs the side-view appearance; that image is not bundled.
