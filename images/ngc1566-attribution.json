@@ -1,5 +1,5 @@
 {
-  "title": "Grand swirls \u2014 NGC 1566",
+  "title": "Grand swirls — NGC 1566",
   "source": "https://esahubble.org/images/potw1422a/",
   "download": "https://cdn.esahubble.org/archives/images/screen/potw1422a.jpg",
   "credit": "ESA/Hubble & NASA",
@@ -7,6 +7,6 @@
   "license": "CC BY 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
   "usagePolicy": "https://esahubble.org/public/copyright/",
-  "changes": "Original JPEG unchanged; displayed with soft edge masking, local brightness adjustment and independent illustrative AGN geometry overlays. Not a resolved photograph of those nuclear structures.",
+  "changes": "Original JPEG unchanged; colours and spiral texture mapped into an illustrative thick stellar disk, with soft edges, local brightness adjustment and independent AGN geometry. The galaxy and dusty torus share a common model plane. Added depth is an artistic illustration, not measured three-dimensional structure; nuclear overlays are not resolved features in the photograph.",
   "sha256": "42473209f3ed25cddcd2847be2dbc93e5249f98e22683957e43f77ad9e10296a"
 }
